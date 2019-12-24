@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="logo" src="https://img.yzcdn.cn/vant/logo.png" width="120" style="margin-bottom: 10px;">
 </p>
-<h3 align="center">轻量、可靠的小程序 UI 组件库</h3>
+<h3 align="center">轻量、可靠的小程序 UI 组件库1</h3>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/@vant/weapp.svg?style=flat-square" alt="npm version" />
